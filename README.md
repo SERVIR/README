@@ -30,7 +30,7 @@ The next header line starts the template, remove everything above above it to mo
 
 Include the relevant badges for your application in this section. Ensure you include the SERVIR Global badge.
 
-[![Django: 3.x](https://img.shields.io/badge/Django-3.x-blue)](https://www.djangoproject.com)
+[![Mark: Down](https://img.shields.io/badge/Mark-&#8595;-blue)](https://en.wikipedia.org/wiki/Markdown)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SERVIR: Global](https://img.shields.io/badge/SERVIR-Global-green)](https://servirglobal.net)
 
